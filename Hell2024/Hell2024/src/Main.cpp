@@ -23,6 +23,7 @@ extern "C" {
 
 int main() {
     std::cout << "We are all alone on life's journey, held captive by the limitations of human consciousness.\n";
+    std::cout << "Regardless of this, there's a silver lining: F A I T H\n";
     Engine::RunOld();
     return 0;
 }
